@@ -145,10 +145,10 @@ For NVM on Mac (via [homebrew](http://brew.sh/)):
 
 ```bash
 brew install nvm
-nvm install v4.3.2
+nvm install v6.10.2
 ```
 
-You can then either swap to that version with `nvm use v4.3.2`, or do `nvm exec v4.3.2 zapier test` so you can run tests without having to switch versions while developing.
+You can then either swap to that version with `nvm use v6.10.2`, or do `nvm exec v6.10.2 zapier test` so you can run tests without having to switch versions while developing.
 
 
 ### Quick Setup Guide
