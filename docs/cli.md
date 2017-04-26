@@ -788,8 +788,7 @@ $ zapier scaffold resource "Tag" --entry=index.js --dest=resources/tag
 **Arguments**
 
 
-* `--quiet` -- _optional_, do not print zapier detailed logs to standard out
-* `--very-quiet` -- _optional_, do not print zapier summary or detail logs to standard out
+* `--debug` -- _optional_, print zapier detailed logs to standard out
 * `--timeout=value` -- _optional_, add a default timeout to mocha, in milliseconds
 
 ```bash
